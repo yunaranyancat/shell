@@ -1,9 +1,9 @@
 <?php
 // --- pop-up
 
-$user = "ubetubed";
+$user = "janda123";
 
-$pass = "ubetubed";
+$pass = "janda123";
 
  if (($_SERVER["PHP_AUTH_USER"] != $user) || (($_SERVER["PHP_AUTH_PW"]) != $pass))
 
